@@ -16,5 +16,4 @@ print("my name is ", sys.argv[1])
 
 # we have learned about the pakcage of Cowsay 
 
-# Apis----pip install requests
-
+# Apis----pip install request
