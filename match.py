@@ -10,7 +10,7 @@ name = input(" Whats your name?")
 #    print("Who")
 match name:
     case "harry":
-        Print("Pak")
+        print("Pak")
     case "ron":
         print("nz")
     case "ali":
